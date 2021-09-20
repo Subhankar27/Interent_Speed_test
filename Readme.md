@@ -2,6 +2,8 @@
 
 Used to find the download speed, upload speed and ping of the internet you are connected to.
 
+![alt text](https://github.com/Shaishav0507/Internet_Speed_Test/blob/main/Capture.PNG)
+
 ## Set Up
 
 Download dependencies using ``` pip install tk``` and   ``` pip install speedtest-cli```
