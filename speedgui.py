@@ -24,6 +24,7 @@ dspeed = tk.Label(root,text="Download Speed:",bg="#3b4d61",fg="yellow",font=font
 dspeed.place(x=10,y=10)
 d = tk.Label(root,text="0 Mbps",bg="#3b4d61",fg="yellow",font=font)
 d.place(x=250,y=10)
+
 uspeed = tk.Label(root,text="Upload Speed:",bg="#3b4d61",fg="yellow",font=font)
 uspeed.place(x=10,y=50)
 u = tk.Label(root,text="0 Mbps",bg="#3b4d61",fg="yellow",font=font)
