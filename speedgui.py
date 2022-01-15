@@ -29,6 +29,7 @@ uspeed = tk.Label(root,text="Upload Speed:",bg="#3b4d61",fg="yellow",font=font)
 uspeed.place(x=10,y=50)
 u = tk.Label(root,text="0 Mbps",bg="#3b4d61",fg="yellow",font=font)
 u.place(x=250,y=50)
+
 ping = tk.Label(root,text="Ping:",bg="#3b4d61",fg="yellow",font=font)
 ping.place(x=10,y=90)
 p = tk.Label(root,text="0 MS",bg="#3b4d61",fg="yellow",font=font)
