@@ -2,6 +2,7 @@ import tkinter as tk
 import speedtest
 from tkinter import messagebox
 
+
 st = speedtest.Speedtest()
 root = tk.Tk()
 root.geometry("400x400")
